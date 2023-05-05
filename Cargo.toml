@@ -3,6 +3,8 @@ name = "RustyML"
 version = "0.1.0"
 edition = "2021"
 
+authors = ["Joon Kim <jnkmlearn@gmail.com>"]
+
 [lib]
 name = "rustyml"
 path = "src/lib.rs"
